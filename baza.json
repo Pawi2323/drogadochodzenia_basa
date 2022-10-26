@@ -1,0 +1,81 @@
+{
+ "trasy":[
+   {
+     "id": 1,
+     "nazwa":"Czarny Szlak",
+     "opis":"Piękny zjazd z wielkiej czarnej góry",
+     "zdjecie_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Black_Mountains-27527-2.jpg",
+     "dlugosc":"2512",
+     "rekord": "600",
+     "data_rekordu": "26/10/2022",
+     "typ": "rowerowy"
+   },
+   {
+     "id": 2,
+     "nazwa": "Nascar",
+     "opis":"Trasa, na której jeździ sie w koło i skręca tylko w lewo",
+     "zdjecie_url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2022/05/pixar-cars.jpg",
+     "dlugosc":"3220",
+     "rekord": "720",
+     "data_rekordu": "12/09/2021",
+     "typ": "rowerowy"
+   },
+   {
+     "id": 3,
+     "nazwa": "",
+     "opis":"",
+     "zdjecie_url": ,
+     "dlugosc":"",
+     "rekord": "",
+     "data_rekordu": "",
+     "typ": ""
+   },
+   {
+     "id": 4,
+     "nazwa": "",
+     "opis":"",
+     "zdjecie_url": ,
+     "dlugosc":"",
+     "rekord": "",
+     "data_rekordu": "",
+     "typ": ""
+   },
+   {
+     "id": 5,
+     "nazwa": "",
+     "opis":"",
+     "zdjecie_url": ,
+     "dlugosc":"",
+     "rekord": "",
+     "data_rekordu": "",
+     "typ": ""
+   },
+   {
+     "id": 6,
+     "nazwa": "",
+     "opis":"",
+     "zdjecie_url": ,
+     "dlugosc":"",
+     "rekord": "",
+     "data_rekordu": "",
+     "typ": "",
+     "uzytkownik": "",
+     "rekord_uzytkownika": "",
+     "data_rekordu_uzytkownika": ""
+   },
+  ],
+  
+  "niggersi":[
+    {
+      "id": 1,
+      "nazwa": "alexanderthegrate",
+      "ostatni_wynik":[
+        {
+         "id_trasy":1,
+         "czas":98,
+         "data":1661004578000
+        }
+       ]
+    }
+   ]
+}
