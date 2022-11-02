@@ -69,8 +69,63 @@
       "ostatni_wynik":[
         {
          "id_trasy":1,
-         "czas":98,
-         "data":1661004578000
+         "czas":600,
+         "data":"26/10/2022"
+        }
+       ]
+    },
+   {
+      "id": 2,
+      "nazwa": "blondyn_furioza",
+      "ostatni_wynik":[
+        {
+         "id_trasy":4,
+         "czas":301,
+         "data":"26/10/2022"
+        }
+       ]
+    },
+   {
+      "id": 3,
+      "nazwa": "bruh",
+      "ostatni_wynik":[
+        {
+         "id_trasy":1,
+         "czas":829,
+         "data":"26/10/2022"
+        }
+       ]
+    },
+   {
+      "id": 4,
+      "nazwa": "asnhifiasjopf",
+      "ostatni_wynik":[
+        {
+         "id_trasy":2,
+         "czas":450,
+         "data":"26/10/2022"
+        }
+       ]
+    },
+   {
+      "id": 5,
+      "nazwa": "ziomal",
+      "ostatni_wynik":[
+        {
+         "id_trasy":6,
+         "czas":2120,
+         "data":"26/10/2022"
+        }
+       ]
+    },
+   {
+      "id": 6,
+      "nazwa": "bozo",
+      "ostatni_wynik":[
+        {
+         "id_trasy":3,
+         "czas":2410,
+         "data":"26/10/2022"
         }
        ]
     }
